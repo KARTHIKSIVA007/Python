@@ -1,5 +1,5 @@
-po=int(input())
-if (po%100!=0 and po%4==0) or(po%400==0)):
+o=int(input())
+if (o%100!=0 and o%4==0) or(o%400==0):
   print('yes')
 else:
   print('no')
